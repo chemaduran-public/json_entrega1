@@ -4,23 +4,35 @@
       "id": 1,
       "nombre": "Fernando",
       "apellidos": "García",
-      "edad": 20,
-      "asignaturasId": [
-        2,
-        3,
-        4
-      ]
+      "edad": 20
     },
     {
       "id": 2,
       "nombre": "Manuel",
       "apellidos": "Sánchez",
-      "edad": 23,
-      "asignaturasId": [
-        1,
-        2,
-        3
-      ]
+      "edad": 23
+    }
+  ],
+  "matriculas": [
+    {
+      "id": 1,
+      "alumnoId": 1,
+      "asignaturaId": 2
+    },
+    {
+      "id": 2,
+      "alumnoId": 1,
+      "asignaturaId": 3
+    },
+    {
+      "id": 3,
+      "alumnoId": 2,
+      "asignaturaId": 2
+    },
+    {
+      "id": 4,
+      "alumnoId": 2,
+      "asignaturaId": 4
     }
   ],
   "asignaturas": [
