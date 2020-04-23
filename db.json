@@ -13,52 +13,26 @@
       "edad": 23
     }
   ],
-  "matriculas": [
-    {
-      "id": 1,
-      "alumnoId": 1,
-      "asignaturaId": 2
-    },
-    {
-      "id": 2,
-      "alumnoId": 1,
-      "asignaturaId": 3
-    },
-    {
-      "id": 3,
-      "alumnoId": 2,
-      "asignaturaId": 2
-    },
-    {
-      "id": 4,
-      "alumnoId": 2,
-      "asignaturaId": 4
-    }
-  ],
   "asignaturas": [
     {
       "id": 1,
-      "nombre": "Programación"
+      "nombre": "Programación",
+      "alumnoId": 1
     },
     {
       "id": 2,
-      "nombre": "Lenguajes de marcas"
+      "nombre": "Base de datos",
+      "alumnoId": 1
     },
     {
       "id": 3,
-      "nombre": "BB.DD."
+      "nombre": "Programación",
+      "alumnoId": 2
     },
     {
       "id": 4,
-      "nombre": "Sistemas informáticos"
-    },
-    {
-      "id": 5,
-      "nombre": "Entornos de desarrollo"
-    },
-    {
-      "id": 6,
-      "nombre": "Formación y Orientación Laboral"
+      "nombre": "Lenguaje de marcas",
+      "alumnoId": 2
     }
   ]
 }
