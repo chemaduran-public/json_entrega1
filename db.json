@@ -1,0 +1,53 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Fernando",
+      "apellidos": "García",
+      "edad": 20,
+      "asignaturasId": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Manuel",
+      "apellidos": "Sánchez",
+      "edad": 23,
+      "asignaturasId": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "asignaturas": [
+    {
+      "id": 1,
+      "nombre": "Programación"
+    },
+    {
+      "id": 2,
+      "nombre": "Lenguajes de marcas"
+    },
+    {
+      "id": 3,
+      "nombre": "BB.DD."
+    },
+    {
+      "id": 4,
+      "nombre": "Sistemas informáticos"
+    },
+    {
+      "id": 5,
+      "nombre": "Entornos de desarrollo"
+    },
+    {
+      "id": 6,
+      "nombre": "Formación y Orientación Laboral"
+    }
+  ]
+}
+
